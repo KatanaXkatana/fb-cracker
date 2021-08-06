@@ -1,5 +1,8 @@
 # fb-cracker
 
+
+[x]THIS IS FOR TERMUX USER ONLY[x]
+
 AUTO FACEBOOK CRACKER
 
 
