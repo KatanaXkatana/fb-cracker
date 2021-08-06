@@ -13,7 +13,7 @@ pkg install python
 
 pkg install python2
 
-git clone <link>
+git clone https://github.com/KatanaXkatana/fb-cracker
 
 cd fb-cracker
 
