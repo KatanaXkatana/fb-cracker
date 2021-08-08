@@ -1,19 +1,17 @@
 # fb-cracker
 
-<img src="Screenshot_2021_0807_172748.png">
-
 [x]THIS IS FOR TERMUX USER ONLY[x]
 
 AUTO FACEBOOK CRACKER
 
 
-INSTALLATION:
+<h2>INSTALLATION:</h2>
 
-pkg update
+<p>pkg update</p>
 
-pkg install git
+<p>pkg install git</p>
 
-pkg install python
+<p>pkg install python</p>
 
 pkg install python2
 
@@ -24,7 +22,7 @@ cd fb-cracker
 pip install -r requirments.txt
 
 
-HOW TO USE:
+<h2>HOW TO USE:</h2>
 
 python fb-cracker.py
 
@@ -34,3 +32,5 @@ and wait
 
 DON'T CLICK ctrl + c or ctrl + z while cracking
 
+<h1>PROOF</h1>
+<img src="Screenshot_2021_0807_172748.png">
