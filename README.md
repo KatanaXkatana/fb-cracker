@@ -19,7 +19,7 @@ git clone https://github.com/KatanaXkatana/fb-cracker
 
 cd fb-cracker
 
-pip install -r requirments.txt
+pip install -r requirements.txt
 
 
 <h2>HOW TO USE:</h2>
