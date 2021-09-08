@@ -18,6 +18,7 @@ pkg install python2
 git clone https://github.com/KatanaXkatana/fb-cracker
 
 cd fb-cracker
+pip install --upgrade pip
 
 pip install -r requirements.txt
 
